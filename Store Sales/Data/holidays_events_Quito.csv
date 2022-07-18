@@ -1,0 +1,188 @@
+date,type,locale,locale_name,description,transferred,Related to Quito,"Holiday, Event"
+10/8/2012,Holiday,National,Ecuador,Primer Grito de Independencia,FALSE,Yes,Holiday
+9/10/2012,Holiday,National,Ecuador,Independencia de Guayaquil,TRUE,Yes,Workday
+12/10/2012,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,FALSE,Yes,Holiday
+2/11/2012,Holiday,National,Ecuador,Dia de Difuntos,FALSE,Yes,Holiday
+3/11/2012,Holiday,National,Ecuador,Independencia de Cuenca,FALSE,Yes,Holiday
+5/12/2012,Additional,Local,Quito,Fundacion de Quito-1,FALSE,Yes,Holiday
+6/12/2012,Holiday,Local,Quito,Fundacion de Quito,FALSE,Yes,Holiday
+21/12/2012,Additional,National,Ecuador,Navidad-4,FALSE,Yes,Holiday
+22/12/2012,Additional,National,Ecuador,Navidad-3,FALSE,Yes,Holiday
+23/12/2012,Additional,National,Ecuador,Navidad-2,FALSE,Yes,Holiday
+24/12/2012,Bridge,National,Ecuador,Puente Navidad,FALSE,Yes,Holiday
+24/12/2012,Additional,National,Ecuador,Navidad-1,FALSE,Yes,Holiday
+25/12/2012,Holiday,National,Ecuador,Navidad,FALSE,Yes,Holiday
+26/12/2012,Additional,National,Ecuador,Navidad+1,FALSE,Yes,Holiday
+31/12/2012,Bridge,National,Ecuador,Puente Primer dia del ano,FALSE,Yes,Holiday
+31/12/2012,Additional,National,Ecuador,Primer dia del ano-1,FALSE,Yes,Holiday
+1/1/2013,Holiday,National,Ecuador,Primer dia del ano,FALSE,Yes,Holiday
+5/1/2013,Work Day,National,Ecuador,Recupero puente Navidad,FALSE,Yes,Holiday
+12/1/2013,Work Day,National,Ecuador,Recupero puente primer dia del ano,FALSE,Yes,Holiday
+11/2/2013,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+12/2/2013,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+29/4/2013,Holiday,National,Ecuador,Viernes Santo,FALSE,Yes,Holiday
+1/5/2013,Holiday,National,Ecuador,Dia del Trabajo,FALSE,Yes,Holiday
+11/5/2013,Additional,National,Ecuador,Dia de la Madre-1,FALSE,Yes,Holiday
+12/5/2013,Event,National,Ecuador,Dia de la Madre,FALSE,Yes,Dia de la Madre
+24/5/2013,Holiday,National,Ecuador,Batalla de Pichincha,FALSE,Yes,Holiday
+10/8/2013,Holiday,National,Ecuador,Primer Grito de Independencia,FALSE,Yes,Holiday
+9/10/2013,Holiday,National,Ecuador,Independencia de Guayaquil,TRUE,Yes,Workday
+11/10/2013,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,FALSE,Yes,Holiday
+2/11/2013,Holiday,National,Ecuador,Dia de Difuntos,FALSE,Yes,Holiday
+3/11/2013,Holiday,National,Ecuador,Independencia de Cuenca,FALSE,Yes,Holiday
+5/12/2013,Additional,Local,Quito,Fundacion de Quito-1,FALSE,Yes,Holiday
+6/12/2013,Holiday,Local,Quito,Fundacion de Quito,FALSE,Yes,Holiday
+21/12/2013,Additional,National,Ecuador,Navidad-4,FALSE,Yes,Holiday
+22/12/2013,Additional,National,Ecuador,Navidad-3,FALSE,Yes,Holiday
+23/12/2013,Additional,National,Ecuador,Navidad-2,FALSE,Yes,Holiday
+24/12/2013,Additional,National,Ecuador,Navidad-1,FALSE,Yes,Holiday
+25/12/2013,Holiday,National,Ecuador,Navidad,FALSE,Yes,Holiday
+26/12/2013,Additional,National,Ecuador,Navidad+1,FALSE,Yes,Holiday
+31/12/2013,Additional,National,Ecuador,Primer dia del ano-1,FALSE,Yes,Holiday
+1/1/2014,Holiday,National,Ecuador,Primer dia del ano,FALSE,Yes,Holiday
+3/3/2014,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+4/3/2014,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+18/4/2014,Holiday,National,Ecuador,Viernes Santo,FALSE,Yes,Holiday
+1/5/2014,Holiday,National,Ecuador,Dia del Trabajo,FALSE,Yes,Holiday
+10/5/2014,Additional,National,Ecuador,Dia de la Madre-1,FALSE,Yes,Holiday
+11/5/2014,Event,National,Ecuador,Dia de la Madre,FALSE,Yes,Dia de la Madre
+24/5/2014,Holiday,National,Ecuador,Batalla de Pichincha,FALSE,Yes,Holiday
+12/6/2014,Event,National,Ecuador,Inauguracion Mundial de futbol Brasil,FALSE,Yes,Mundial de futbol Brasil
+15/6/2014,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Suiza,FALSE,Yes,Mundial de futbol Brasil
+20/6/2014,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Honduras,FALSE,Yes,Mundial de futbol Brasil
+25/6/2014,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Francia,FALSE,Yes,Mundial de futbol Brasil
+28/6/2014,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSE,Yes,Mundial de futbol Brasil
+29/6/2014,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSE,Yes,Mundial de futbol Brasil
+30/6/2014,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSE,Yes,Mundial de futbol Brasil
+1/7/2014,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSE,Yes,Mundial de futbol Brasil
+4/7/2014,Event,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final,FALSE,Yes,Mundial de futbol Brasil
+5/7/2014,Event,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final,FALSE,Yes,Mundial de futbol Brasil
+8/7/2014,Event,National,Ecuador,Mundial de futbol Brasil: Semifinales,FALSE,Yes,Mundial de futbol Brasil
+9/7/2014,Event,National,Ecuador,Mundial de futbol Brasil: Semifinales,FALSE,Yes,Mundial de futbol Brasil
+12/7/2014,Event,National,Ecuador,Mundial de futbol Brasil: Tercer y cuarto lugar,FALSE,Yes,Mundial de futbol Brasil
+13/7/2014,Event,National,Ecuador,Mundial de futbol Brasil: Final,FALSE,Yes,Mundial de futbol Brasil
+10/8/2014,Holiday,National,Ecuador,Primer Grito de Independencia,FALSE,Yes,Holiday
+9/10/2014,Holiday,National,Ecuador,Independencia de Guayaquil,TRUE,Yes,Workday
+10/10/2014,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,FALSE,Yes,Holiday
+2/11/2014,Holiday,National,Ecuador,Dia de Difuntos,FALSE,Yes,Holiday
+3/11/2014,Holiday,National,Ecuador,Independencia de Cuenca,FALSE,Yes,Holiday
+28/11/2014,Event,National,Ecuador,Black Friday,FALSE,Yes,Black Friday
+1/12/2014,Event,National,Ecuador,Cyber Monday,FALSE,Yes,Cyber Monday
+5/12/2014,Additional,Local,Quito,Fundacion de Quito-1,FALSE,Yes,Holiday
+6/12/2014,Holiday,Local,Quito,Fundacion de Quito,FALSE,Yes,Holiday
+20/12/2014,Work Day,National,Ecuador,Recupero Puente Navidad,FALSE,Yes,Holiday
+21/12/2014,Additional,National,Ecuador,Navidad-4,FALSE,Yes,Holiday
+22/12/2014,Additional,National,Ecuador,Navidad-3,FALSE,Yes,Holiday
+23/12/2014,Additional,National,Ecuador,Navidad-2,FALSE,Yes,Holiday
+24/12/2014,Additional,National,Ecuador,Navidad-1,FALSE,Yes,Holiday
+25/12/2014,Holiday,National,Ecuador,Navidad,FALSE,Yes,Holiday
+26/12/2014,Bridge,National,Ecuador,Puente Navidad,FALSE,Yes,Holiday
+26/12/2014,Additional,National,Ecuador,Navidad+1,FALSE,Yes,Holiday
+31/12/2014,Additional,National,Ecuador,Primer dia del ano-1,FALSE,Yes,Holiday
+1/1/2015,Holiday,National,Ecuador,Primer dia del ano,FALSE,Yes,Holiday
+2/1/2015,Bridge,National,Ecuador,Puente Primer dia del ano,FALSE,Yes,Holiday
+10/1/2015,Work Day,National,Ecuador,Recupero Puente Primer dia del ano,FALSE,Yes,Holiday
+16/2/2015,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+17/2/2015,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+3/4/2015,Holiday,National,Ecuador,Viernes Santo,FALSE,Yes,Holiday
+1/5/2015,Holiday,National,Ecuador,Dia del Trabajo,FALSE,Yes,Holiday
+9/5/2015,Additional,National,Ecuador,Dia de la Madre-1,FALSE,Yes,Holiday
+10/5/2015,Event,National,Ecuador,Dia de la Madre,FALSE,Yes,Dia de la Madre
+24/5/2015,Holiday,National,Ecuador,Batalla de Pichincha,FALSE,Yes,Holiday
+10/8/2015,Holiday,National,Ecuador,Primer Grito de Independencia,FALSE,Yes,Holiday
+9/10/2015,Holiday,National,Ecuador,Independencia de Guayaquil,FALSE,Yes,Holiday
+2/11/2015,Holiday,National,Ecuador,Dia de Difuntos,FALSE,Yes,Holiday
+3/11/2015,Holiday,National,Ecuador,Independencia de Cuenca,FALSE,Yes,Holiday
+27/11/2015,Event,National,Ecuador,Black Friday,FALSE,Yes,Black Friday
+30/11/2015,Event,National,Ecuador,Cyber Monday,FALSE,Yes,Cyber Monday
+5/12/2015,Additional,Local,Quito,Fundacion de Quito-1,FALSE,Yes,Holiday
+6/12/2015,Holiday,Local,Quito,Fundacion de Quito,FALSE,Yes,Holiday
+21/12/2015,Additional,National,Ecuador,Navidad-4,FALSE,Yes,Holiday
+22/12/2015,Additional,National,Ecuador,Navidad-3,FALSE,Yes,Holiday
+23/12/2015,Additional,National,Ecuador,Navidad-2,FALSE,Yes,Holiday
+24/12/2015,Additional,National,Ecuador,Navidad-1,FALSE,Yes,Holiday
+25/12/2015,Holiday,National,Ecuador,Navidad,FALSE,Yes,Holiday
+26/12/2015,Additional,National,Ecuador,Navidad+1,FALSE,Yes,Holiday
+31/12/2015,Additional,National,Ecuador,Primer dia del ano-1,FALSE,Yes,Holiday
+1/1/2016,Holiday,National,Ecuador,Primer dia del ano,FALSE,Yes,Holiday
+8/2/2016,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+9/2/2016,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+25/3/2016,Holiday,National,Ecuador,Viernes Santo,FALSE,Yes,Holiday
+16/4/2016,Event,National,Ecuador,Terremoto Manabi,FALSE,Yes,Terremoto Manabi
+17/4/2016,Event,National,Ecuador,Terremoto Manabi+1,FALSE,Yes,Terremoto Manabi
+18/4/2016,Event,National,Ecuador,Terremoto Manabi+2,FALSE,Yes,Terremoto Manabi
+19/4/2016,Event,National,Ecuador,Terremoto Manabi+3,FALSE,Yes,Terremoto Manabi
+20/4/2016,Event,National,Ecuador,Terremoto Manabi+4,FALSE,Yes,Terremoto Manabi
+21/4/2016,Event,National,Ecuador,Terremoto Manabi+5,FALSE,Yes,Terremoto Manabi
+22/4/2016,Event,National,Ecuador,Terremoto Manabi+6,FALSE,Yes,Terremoto Manabi
+23/4/2016,Event,National,Ecuador,Terremoto Manabi+7,FALSE,Yes,Terremoto Manabi
+24/4/2016,Event,National,Ecuador,Terremoto Manabi+8,FALSE,Yes,Terremoto Manabi
+25/4/2016,Event,National,Ecuador,Terremoto Manabi+9,FALSE,Yes,Terremoto Manabi
+26/4/2016,Event,National,Ecuador,Terremoto Manabi+10,FALSE,Yes,Terremoto Manabi
+27/4/2016,Event,National,Ecuador,Terremoto Manabi+11,FALSE,Yes,Terremoto Manabi
+28/4/2016,Event,National,Ecuador,Terremoto Manabi+12,FALSE,Yes,Terremoto Manabi
+29/4/2016,Event,National,Ecuador,Terremoto Manabi+13,FALSE,Yes,Terremoto Manabi
+30/4/2016,Event,National,Ecuador,Terremoto Manabi+14,FALSE,Yes,Terremoto Manabi
+1/5/2016,Holiday,National,Ecuador,Dia del Trabajo,FALSE,Yes,Holiday
+1/5/2016,Event,National,Ecuador,Terremoto Manabi+15,FALSE,Yes,Terremoto Manabi
+2/5/2016,Event,National,Ecuador,Terremoto Manabi+16,FALSE,Yes,Terremoto Manabi
+3/5/2016,Event,National,Ecuador,Terremoto Manabi+17,FALSE,Yes,Terremoto Manabi
+4/5/2016,Event,National,Ecuador,Terremoto Manabi+18,FALSE,Yes,Terremoto Manabi
+5/5/2016,Event,National,Ecuador,Terremoto Manabi+19,FALSE,Yes,Terremoto Manabi
+6/5/2016,Event,National,Ecuador,Terremoto Manabi+20,FALSE,Yes,Terremoto Manabi
+7/5/2016,Additional,National,Ecuador,Dia de la Madre-1,FALSE,Yes,Holiday
+7/5/2016,Event,National,Ecuador,Terremoto Manabi+21,FALSE,Yes,Terremoto Manabi
+8/5/2016,Event,National,Ecuador,Terremoto Manabi+22,FALSE,Yes,Terremoto Manabi
+8/5/2016,Event,National,Ecuador,Dia de la Madre,FALSE,Yes,Dia de la Madre
+9/5/2016,Event,National,Ecuador,Terremoto Manabi+23,FALSE,Yes,Terremoto Manabi
+10/5/2016,Event,National,Ecuador,Terremoto Manabi+24,FALSE,Yes,Terremoto Manabi
+11/5/2016,Event,National,Ecuador,Terremoto Manabi+25,FALSE,Yes,Terremoto Manabi
+12/5/2016,Event,National,Ecuador,Terremoto Manabi+26,FALSE,Yes,Terremoto Manabi
+13/5/2016,Event,National,Ecuador,Terremoto Manabi+27,FALSE,Yes,Terremoto Manabi
+14/5/2016,Event,National,Ecuador,Terremoto Manabi+28,FALSE,Yes,Terremoto Manabi
+15/5/2016,Event,National,Ecuador,Terremoto Manabi+29,FALSE,Yes,Terremoto Manabi
+16/5/2016,Event,National,Ecuador,Terremoto Manabi+30,FALSE,Yes,Terremoto Manabi
+24/5/2016,Holiday,National,Ecuador,Batalla de Pichincha,TRUE,Yes,Workday
+27/5/2016,Transfer,National,Ecuador,Traslado Batalla de Pichincha,FALSE,Yes,Holiday
+10/8/2016,Holiday,National,Ecuador,Primer Grito de Independencia,TRUE,Yes,Workday
+12/8/2016,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,FALSE,Yes,Holiday
+9/10/2016,Holiday,National,Ecuador,Independencia de Guayaquil,FALSE,Yes,Holiday
+2/11/2016,Holiday,National,Ecuador,Dia de Difuntos,FALSE,Yes,Holiday
+3/11/2016,Holiday,National,Ecuador,Independencia de Cuenca,FALSE,Yes,Holiday
+4/11/2016,Bridge,National,Ecuador,Puente Dia de Difuntos,FALSE,Yes,Holiday
+12/11/2016,Work Day,National,Ecuador,Recupero Puente Dia de Difuntos,FALSE,Yes,Holiday
+25/11/2016,Event,National,Ecuador,Black Friday,FALSE,Yes,Black Friday
+28/11/2016,Event,National,Ecuador,Cyber Monday,FALSE,Yes,Cyber Monday
+5/12/2016,Additional,Local,Quito,Fundacion de Quito-1,FALSE,Yes,Holiday
+6/12/2016,Holiday,Local,Quito,Fundacion de Quito,FALSE,Yes,Holiday
+21/12/2016,Additional,National,Ecuador,Navidad-4,FALSE,Yes,Holiday
+22/12/2016,Additional,National,Ecuador,Navidad-3,FALSE,Yes,Holiday
+23/12/2016,Additional,National,Ecuador,Navidad-2,FALSE,Yes,Holiday
+24/12/2016,Additional,National,Ecuador,Navidad-1,FALSE,Yes,Holiday
+25/12/2016,Holiday,National,Ecuador,Navidad,FALSE,Yes,Holiday
+26/12/2016,Additional,National,Ecuador,Navidad+1,FALSE,Yes,Holiday
+31/12/2016,Additional,National,Ecuador,Primer dia del ano-1,FALSE,Yes,Holiday
+1/1/2017,Holiday,National,Ecuador,Primer dia del ano,TRUE,Yes,Workday
+2/1/2017,Transfer,National,Ecuador,Traslado Primer dia del ano,FALSE,Yes,Holiday
+27/2/2017,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+28/2/2017,Holiday,National,Ecuador,Carnaval,FALSE,Yes,Holiday
+14/4/2017,Holiday,National,Ecuador,Viernes Santo,FALSE,Yes,Holiday
+1/5/2017,Holiday,National,Ecuador,Dia del Trabajo,FALSE,Yes,Holiday
+13/5/2017,Additional,National,Ecuador,Dia de la Madre-1,FALSE,Yes,Holiday
+14/5/2017,Event,National,Ecuador,Dia de la Madre,FALSE,Yes,Dia de la Madre
+24/5/2017,Holiday,National,Ecuador,Batalla de Pichincha,TRUE,Yes,Workday
+26/5/2017,Transfer,National,Ecuador,Traslado Batalla de Pichincha,FALSE,Yes,Holiday
+10/8/2017,Holiday,National,Ecuador,Primer Grito de Independencia,TRUE,Yes,Workday
+11/8/2017,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,FALSE,Yes,Holiday
+9/10/2017,Holiday,National,Ecuador,Independencia de Guayaquil,FALSE,Yes,Holiday
+2/11/2017,Holiday,National,Ecuador,Dia de Difuntos,FALSE,Yes,Holiday
+3/11/2017,Holiday,National,Ecuador,Independencia de Cuenca,FALSE,Yes,Holiday
+5/12/2017,Additional,Local,Quito,Fundacion de Quito-1,FALSE,Yes,Holiday
+6/12/2017,Holiday,Local,Quito,Fundacion de Quito,TRUE,Yes,Workday
+8/12/2017,Transfer,Local,Quito,Traslado Fundacion de Quito,FALSE,Yes,Holiday
+21/12/2017,Additional,National,Ecuador,Navidad-4,FALSE,Yes,Holiday
+22/12/2017,Additional,National,Ecuador,Navidad-3,FALSE,Yes,Holiday
+23/12/2017,Additional,National,Ecuador,Navidad-2,FALSE,Yes,Holiday
+24/12/2017,Additional,National,Ecuador,Navidad-1,FALSE,Yes,Holiday
+25/12/2017,Holiday,National,Ecuador,Navidad,FALSE,Yes,Holiday
+26/12/2017,Additional,National,Ecuador,Navidad+1,FALSE,Yes,Holiday
